@@ -11,8 +11,8 @@ The audio library, afAudio, is responsible for playing the audio from the discov
 
 This sample assumes that the afDisco distribution is a peer of this directory:
 
-    android-audiofetch-sdk-sample-v3
-    af_disco_android
+    af-sdk-sample-android
+    af-disco-android
 
 You can, of course, organize in any way you wish, but the relative paths in the gradle build assume this structure for this sample app. The afAudio library takes the form of an aar that is included in app/libs here for convienence.
 
