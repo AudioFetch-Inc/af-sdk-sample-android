@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.audiofetch.afsdksample"
-    compileSdk = 33
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.audiofetch.afsdksample"
-        minSdk = 24
-        targetSdk = 33
+        minSdk = 26
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 

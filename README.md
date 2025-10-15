@@ -1,5 +1,8 @@
 # AudioFetch Android SDK Sample
 
+## Updated 10/25 for API 35 and 16kb load boundary requirements.
+ 
+
 ## Overview
 
 This is an example app for how to integrate and use the v3 AudioFetch SDK. The SDK
