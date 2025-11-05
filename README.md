@@ -1,6 +1,6 @@
 # AudioFetch Android SDK Sample
 
-## Updated 10/25 for API 35 and 16kb load boundary requirements.
+## Updated 11/2025 for API 35 and 16kb load boundary requirements.
  
 
 ## Overview
